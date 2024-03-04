@@ -5,10 +5,10 @@ This project uses compares decision tree and random forest algorithms to predict
 
 After cleaning the data, I performed correlation analysis to determine which numerical variables would be best for training the models. This determine that the variables with the strongest correlation to price were:
 
-- Rooms
-- Bathroom
-- Bedroom2
-- BuildingArea
+- Number of rooms
+- Number of bathrooms
+- Bedroom2 (room numbers from different source)
+- Building area
 
 The first model utilized was a decision tree which had a mean absolute error (MEA) of 256,665.
 
