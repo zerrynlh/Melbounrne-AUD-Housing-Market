@@ -15,4 +15,4 @@ The first model utilized was a decision tree which had a mean absolute error (MA
 
 To improve the accuracy of predictions, the random forest algorithm was used which resulted in a decrease in MAE to 205,139.
 
-After choosing the random forest algorithm, I performed tests by modifying the number of leaf nodes and decision trees to determined what the optimal leaf nodes and decision trees were. The final result was an MAE of 156,356 in home price prediction. Cross-valiation determined a MAE of 167,959.
+After choosing the random forest algorithm, I performed tests by modifying the number of leaf nodes and decision trees to determined what the optimal leaf nodes and decision trees were. The final result was an MAE of 156,356 in home price prediction. Cross-validation determined a MAE of 167,959.
